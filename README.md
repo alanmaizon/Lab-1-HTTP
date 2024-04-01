@@ -1,2 +1,3 @@
-# 1-WebDesign
- Resources for module 1 - Web Design
+UCD-HTML
+ Exercises for module 1 - Web Design
+ Alan Maizon
